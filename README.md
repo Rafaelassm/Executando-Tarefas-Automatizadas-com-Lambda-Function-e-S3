@@ -111,6 +111,6 @@ Um arquivo USAGE.md ou seção no README para “Como testar/usar”
 Uma seção “Customização” onde você mostra como modificar a função para transformações.
 
 
-🔗Todas as informações desse repositório foram retirados de : Automatizar a configuração do S3 Object Lambda com um modelo do CloudFormation
+🔗Todas as informações desse repositório foram retirados de : [Automatizar a configuração do S3 Object Lambda com um modelo do CloudFormation](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/olap-using-cfn-template.html)
 
 📖Última atualização 31/10/2025
